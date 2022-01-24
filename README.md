@@ -65,6 +65,9 @@
 <div align="center">
     <a href="https://github.com/romankupkovic/reactnative_test/blob/master/assets/lylaresultstab.png">
         <img src="assets/lylaresultstab.png" alt="Logo" width="200" height="400">
+    </a>
+    <a href="https://github.com/romankupkovic/reactnative_test/blob/master/assets/lylaprofileview.png">
+        <img src="assets/lylaprofileview.png" alt="Logo" width="200" height="400">
     </a> 
     <a href="https://github.com/romankupkovic/reactnative_test/blob/master/assets/lylamessagetab.png">
         <img src="assets/lylamessagetab.png" alt="Logo" width="200" height="400">
